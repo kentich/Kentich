@@ -1,0 +1,23 @@
+body {
+    background-image: url(/img/dog.jpg);
+    background-size: cover;
+    padding-top: 20px;
+}
+
+main {
+    width: 40%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    padding-left: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    background-image: linear-gradient(to top, rgba(189, 192, 17, 0.055), rgb(203, 206, 22));
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    background-image: linear-gradient(to top, rgba(189, 192, 17, 0.055), rgb(203, 206, 22));
+}
